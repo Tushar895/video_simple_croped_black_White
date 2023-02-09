@@ -1,1 +1,1 @@
-# vedio_simple_croped_black_White
+# video_simple_croped_black_White
